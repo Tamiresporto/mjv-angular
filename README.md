@@ -1,5 +1,7 @@
 <h3> Primeiro exercicio em Angular da MJV  </h3>
+<h4> Apenas a criação do modelo padrão do projeto após as dependecias baixadas, as edições dos componetes Html e SCSS, com o primeiro contato com a ferramenta Angular. </h4>
 
+Link Pages: https://mjv-angular-tbnu.vercel.app/
 
 <h4> 📖  Dependecias   </h4>
 <h6> cd primeiro-projeto </h6>
